@@ -1,0 +1,27 @@
+p {
+    color:black;
+    font-size: 5px;
+}
+.last {
+    text-align:right;
+}
+h1 {
+    color:blue;
+    font-size: 15px;
+    text-align:center;
+}
+h2 {
+    color:blueviolet;
+    font-size: 10px;
+    text-align:center;
+}
+img {
+    height: 80px;
+    width: 100px;
+}
+.pictures {
+    text-align:center;
+}
+body {
+    zoom:100%
+}
